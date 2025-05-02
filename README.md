@@ -61,6 +61,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-### Made with ❤️ by [Your Name](https://github.com/gyanthakur)
+### Made with ❤️ by [Gyan Pratap Singh](https://github.com/gyanthakur)
 
 > If you liked this, ⭐ star the repo and follow for more cool UIs!
