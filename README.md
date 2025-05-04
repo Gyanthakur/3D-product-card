@@ -1,6 +1,6 @@
 # 3D Product Card UI 💳✨
 
-A stylish, fully responsive, and interactive 3D Product Card built with **HTML**, **CSS**, and **JavaScript**. Great for beginners and those looking to enhance their frontend skills with visual and interactive UI components.
+A stylish, fully responsive, and interactive 3D Product Card Page built with **HTML**, **CSS**, and **JavaScript**. Great for beginners and those looking to enhance their frontend skills with visual and interactive UI components.
 
 ## 🔥 Features
 
